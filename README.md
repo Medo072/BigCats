@@ -4,7 +4,7 @@
 </div>
 
 <p style="font-size: 18px;">Welcome to WildCats🦁, an exhilarating Python-based project that brings the untamed world of wild cats to your fingertips🌍! This thrilling adventure takes image classification to a whole new level as you journey through the captivating realms of cheetahs, leopards, lions, and tigers.
-This project showcases the implementation of image classification for...
+This project showcases the implementation of image classification for
 <a href="https://www.kaggle.com/datasets/patriciabrezeanubig-cats-image-classification-dataset?select=animals">BigCats</a>
 dataset on kaggle🎇</p>
 <hr>
@@ -17,7 +17,11 @@ dataset on kaggle🎇</p>
 
 * **Precision through Hyperparameter Tuning:** Fine-tune your model's performance with Grid Search and Randomized Search techniques. Optimize the hyperparameters of SVM and Logistic Regression models to achieve superior image classification accuracy.
 
-* **The Strength of Ensemble Learning:** Embrace the power of ensemble learning with WildCats' dynamic Voting Classifier. By combining multiple models, you'll experience an elevated level of classification accuracy. Whether you choose hard voting or soft voting, the choice is yours!
+* **The Strength of Ensemble Learning:** Embrace the power of ensemble learning with WildCats' dynamic Voting Classifier. By combining multiple models, you'll experience an elevated level of classification accuracy. Whether you choose hard voting or soft voting, the choice is yours!  
+
+* **Performance Comparison:** Easily compare the performance of different machine learning models with insightful metrics and visualizations. Witness the strengths and weaknesses of each model, helping you make informed decisions.  
+
+* **Model Interpretability:** Unravel the inner workings of your models with feature importances and coefficient analysis for logistic regression. Understand the factors driving the model's decisions.
 <hr>
 
 <h2>🛠️ Getting Started</h2>
