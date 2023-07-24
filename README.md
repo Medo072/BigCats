@@ -49,6 +49,8 @@ or use this link in colab
     pip install xgboost
 ```
 
+4. Start running and editing the Jupyter notebook
+
 <h2>💻 Technologies Used</h2>
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" alt="Numpy" title="Numpy" width="50" height="50"/> Numpy
