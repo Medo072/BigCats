@@ -66,6 +66,6 @@ or use this link in colab
 
 <img src="https://github.com/sarus-tech/dp-xgboost/blob/master/logo-dp-xgboost.svg" alt="Xgb" title="Xgb" width="50" height="50"/> xgboost  
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jntbooks" title="Jntbooks" width="30" height="30"/> Jupyter     
+<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jntbooks" title="Jntbooks" width="50" height="50"/>  Jupyter     
 
 <hr>
