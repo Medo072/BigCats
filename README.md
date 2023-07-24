@@ -3,7 +3,7 @@
   <img src="/assets/ArtStationExplore.jpeg" alt="WildCats" width="180" height="250"/>
 </div>
 
-<p style="font-size: 18px;">Welcome to WildCats🦁, an exhilarating Python-based project that brings the untamed world of wild cats to your fingertips🌍! This thrilling adventure takes image classification to a whole new level as you journey through the captivating realms of cheetahs, leopards, lions, and tigers.
+<p style="font-size: 18px;">Welcome to WildCats🦁, an exhilarating Python-based project that brings the untamed world of wild cats to your fingertips🌍! This thrilling adventure takes image classification to a whole new level as your journey through the captivating realms of cheetahs, leopards, lions, and tigers.
 This project showcases the implementation of image classification for
 <a href="https://www.kaggle.com/datasets/patriciabrezeanubig-cats-image-classification-dataset?select=animals">BigCats</a>
 dataset on kaggle🎇</p>
@@ -26,13 +26,13 @@ dataset on kaggle🎇</p>
 
 <h2>🛠️ Getting Started</h2>
 
-1. Clone the Big News repository to your local machine.
+1. Clone the WildCats repository to your local machine.
 
 ```bash
     git clone https://github.com/Medo072/BigCats.git
 ```
 
-2. Download the dataset on your machine and make sure to put it in the repository dirctory   
+2. Download the dataset on your machine and make sure to put it in the repository directory   
 or use this link in colab 
     [BigCats](https://www.kaggle.com/datasets/patriciabrezeanubig-cats-image-classification-dataset?select=animals)
 
