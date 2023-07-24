@@ -47,23 +47,23 @@ or use this link in colab
 
 <h2>💻 Technologies Used</h2>
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" alt="Numpy" title="Numpy" width="30" height="30"/> Numpy
+<img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" alt="Numpy" title="Numpy" width="50" height="50"/> Numpy
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" alt="cv2" title="cv2" width="20" height="20"/> cv2  
+<img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" alt="cv2" title="cv2" width="30" height="30"/> cv2  
 
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" alt="Pandas" title="Pandas" width="30" height="30"/> Pandas  
+<img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" alt="Pandas" title="Pandas" width="50" height="50"/> Pandas  
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python" title="Python" width="20" height="20"/> Python    
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python" title="Python" width="30" height="30"/> Python    
 
-<img src="assets/Scikit_learn_logo_small.svg" alt="Sklearn" title="sklearn" width="20" height="20"/> scikit-learn     
+<img src="assets/Scikit_learn_logo_small.svg" alt="Sklearn" title="sklearn" width="30" height="30"/> scikit-learn     
 
-<img src="/assets/Matplotlib-logo.svg" alt="Matplotlib" title="Matplotlib" width="20" height="20"/> Matplotlib       
+<img src="/assets/Matplotlib-logo.svg" alt="Matplotlib" title="Matplotlib" width="30" height="30"/> Matplotlib       
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" alt="tensorflow" title="tensorflow" width="30" height="30"/> tensorflow      
+<img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" alt="tensorflow" title="tensorflow" width="50" height="50"/> tensorflow      
 
-<img src="/assets/seaborn-seeklogo.com.svg" alt="seaborn" title="seaborn" width="30" height="30"/> seaborn  
+<img src="/assets/seaborn-seeklogo.com.svg" alt="seaborn" title="seaborn" width="50" height="50"/> seaborn  
 
-<img src="https://github.com/sarus-tech/dp-xgboost/blob/master/logo-dp-xgboost.svg" alt="Xgb" title="Xgb" width="30" height="30"/> xgboost     
+<img src="https://github.com/sarus-tech/dp-xgboost/blob/master/logo-dp-xgboost.svg" alt="Xgb" title="Xgb" width="50" height="50"/> xgboost     
 
 <hr>
