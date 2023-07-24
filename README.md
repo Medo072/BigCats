@@ -50,6 +50,7 @@ or use this link in colab
 ```
 
 4. Start running and editing the Jupyter notebook
+<hr>
 
 <h2>💻 Technologies Used</h2>
 
